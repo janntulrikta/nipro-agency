@@ -1,0 +1,540 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	header {
+    padding-bottom: 10px;
+}
+.logo {
+	width: 150px;
+}
+.menu ul li a {
+    padding: 10px 0 0 0 !important;
+}
+.h_btn i{
+	padding: 10px 0 0;
+}
+.s_form {
+    margin-top: 0;
+    margin-left: 0;
+}
+/*banner starrt*/
+.slider{
+    margin: 0 auto;
+}
+.slide {
+    text-align: center;
+}
+.slide h1 {
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+.slide p {
+    margin: 10px 0 20px 0;
+}
+.learn {
+    font-size: 14px;
+    width: 140px;
+    height: 35px;
+    margin: 0 auto;
+}
+.arrow{
+	margin-left: 10px;
+}
+/*slider end*/
+/*welcome start*/
+.w_header{
+    margin-bottom: 45px;
+}
+.v_line {
+    width: 2px;
+    height: 35px;
+    margin-bottom: 10px;
+}
+.w_feature{
+    margin: 25px 0 60px;
+}
+.wf_item {
+    margin-top: 40px;
+    padding: 55px 15px 30px;
+}
+.w_icon{
+    font-size: 55px;
+    right: 38%;
+}
+.wh_content h1 {
+    font-size: 25px;
+}
+.wh_content p {
+    margin-top: 15px;
+    line-height: 25px;
+}
+/*about start*/
+.about{
+   margin: 70px 0;
+}
+.a_img{
+    padding: 0px 0 30px;
+}
+.a_text {
+    margin-left: 0;
+    padding: 0 16px 0;
+    text-align: center;
+}
+.a_text h1 {
+    padding-bottom: 20px;
+    font-size: 25px;
+  }
+.a_text p {
+    line-height: 25px;
+}
+.p-2 {
+    padding: 10px 0 30px !important;
+}
+.a_learn {
+    margin: 0 auto;
+    width: 165px;
+    height: 40px;
+    font-size: 15px;
+}
+/*recent start*/
+.recent h1 {
+    margin-bottom: 45px;
+    font-size: 25px;
+}
+.recent_item {
+    margin-top: 30px;
+}
+.r_menu ul li a {
+    padding: 5px !important;
+    margin: 0 5px;
+    font-size: 15px;
+}
+.r_icon {
+    padding: 98px;
+}
+.r_icon i {
+    font-size: 50px;
+}
+.r_text {
+    padding: 12px 0 12px 20px;
+}
+.r_text h2 {
+    padding-bottom: 5px;
+}
+/*choose start*/
+.ch_title h1 {
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+.ch_item {
+    text-align: center;
+}
+.ch_header {
+    justify-content: center;
+}
+.ch_header i {
+    font-size: 44px;
+}
+.ch_item p {
+    margin: 25px 0;
+    padding: 0 13px;
+}
+/*people start*/
+.people{
+    padding-bottom: 50px;
+    background-image: none;
+    background-color: var(--bgg);
+}
+.people_title{
+    margin-bottom: 35px;
+}
+.people_text {
+    padding: 15px 0 15px 15px;
+}
+.people_text h2 {
+    font-size: 16px;
+}
+.p_item {
+    padding: 10px;
+}
+.p_overlay {
+    top: 25px;
+    left: 10px;
+}
+.p_icons {
+    padding: 6px;
+}
+.p_icons i {
+    font-size: 25px;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	header {
+    padding-bottom: 10px;
+}
+.logo {
+	width: 180px;
+}
+.menu ul li a {
+    padding: 10px 0 0 0 !important;
+}
+.h_btn i{
+	padding: 10px 0 0;
+}
+.s_form {
+    margin-top: 0;
+    margin-left: 0;
+}
+/*banner start*/
+.slide h1 {
+    font-size: 38px;
+}
+.slide p {
+    margin: 10px 0 20px 0;
+
+}
+.learn {
+    width: 140px;
+    height: 35px;
+    font-size: 14px;
+}
+.arrow{
+	margin-left: 10px;
+}
+/*welcome start*/
+.w_header{
+    margin-bottom: 45px;
+}
+.v_line {
+    width: 2px;
+    height: 35px;
+    margin-bottom: 10px;
+}
+.wh_content h1 {
+    font-size: 28px;
+}
+.wh_content p {
+    margin-top: 30px;
+    line-height: 25px;
+    padding: 0 15px;
+}
+.w_feature{
+    margin: 20px 0 60px;
+}
+.wf_item {
+    padding: 50px 0 30px;
+}
+.w_icon{
+    font-size: 55px;
+    right: 35%;
+}
+.wf_item p {
+    margin-bottom: 30px;
+    padding: 0 20px;
+}
+/*about start*/
+.about {
+    margin: 80px 0;
+}
+.a_img{
+    padding: 0px 80px 45px;
+}
+.a_text {
+    margin-left: 0;
+    padding: 0 16px 0;
+    text-align: center;
+}
+.a_text h1 {
+    padding-bottom: 30px;
+    font-size: 28px;
+  }
+.a_text p {
+    line-height: 25px;
+}
+.p-2 {
+    padding: 10px 0 40px !important;
+}
+.a_learn {
+    margin: 0 auto;
+    width: 165px;
+    height: 40px;
+    font-size: 15px;
+}
+/*recent start*/
+.recent h1 {
+    margin-bottom: 45px;
+    font-size: 26px;
+}
+.recent_item {
+    margin-top: 30px;
+}
+.r_menu ul li a {
+    padding: 5px !important;
+    margin: 0 5px;
+    font-size: 15px;
+}
+.r_icon {
+    padding: 70px;
+}
+.r_icon i {
+    font-size: 50px;
+}
+.r_text {
+    padding: 12px 0 12px 20px;
+}
+.r_text h2 {
+    padding-bottom: 5px;
+}
+/*choose start*/
+
+.ch_title h1 {
+    margin-bottom: 0;
+    font-size: 25px;
+}
+.ch_item {
+    text-align: center;
+}
+.ch_header {
+    justify-content: center;
+}
+.ch_header i {
+    font-size: 44px;
+}
+.ch_item p {
+    margin: 30px 0;
+    padding: 0 13px;
+}
+/*people start*/
+.people{
+    padding-bottom: 50px;
+    background-image: none;
+    background-color: var(--bgg);
+}
+.people_title{
+    margin-bottom: 40px;
+}
+.people_text {
+    padding: 15px 0 15px 15px;
+}
+.people_text h2 {
+    font-size: 16px;
+}
+.p_item {
+    padding: 10px;
+    margin-top: 20px;
+}
+.p_overlay {
+    top: 2px;
+    left: 10px;
+}
+.p_icons i {
+    font-size: 22px;
+}
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+header {
+    padding-bottom: 15px;
+}
+.logo {
+	width: 180px;
+}
+.menu ul li a {
+    padding: 10px 0 0 0 !important;
+}
+.h_btn i{
+	padding: 10px 0 0;
+}
+.s_form {
+    margin-left: 0;
+}
+/*banner start*/
+.slide h1 {
+    font-size: 48px;
+}
+.slide p {
+    margin: 20px 10px 25px 0;
+}
+.learn {
+    width: 180px;
+    height: 45px;
+}
+/*welcome start*/
+.w_header {
+    margin-bottom: 40px;
+}
+.v_line {
+    width: 2px;
+    height: 45px;
+}
+.wh_content p {
+    margin-top: 30px;
+    line-height: 26px;
+    padding: 0 20px;
+}
+.w_feature{
+    margin: 20px 0 60px;
+}
+.w_icon{
+    right: 39%;
+}
+.wf_item p {
+    margin-bottom: 30px;
+    padding: 0 20px;
+}
+/*about start*/
+.about {
+    margin: 80px 0;
+}
+.a_img{
+    padding: 0 130px 50px;
+}
+.a_text {
+    margin-left: 0;
+    padding: 0 16px 0;
+    text-align: center;
+}
+.a_text h1 {
+    padding-bottom: 20px;
+  }
+.a_text p {
+    line-height: 25px;
+}
+.p-2 {
+    padding: 10px 0 40px !important;
+}
+.a_learn {
+    margin: 0 auto;
+    width: 165px;
+    height: 40px;
+    font-size: 15px;
+}
+/*recent start*/
+.recent h1 {
+    margin-bottom: 65px;
+}
+.recent_item {
+    margin-top: 30px;
+}
+.r_icon {
+    padding: 107px;
+}
+/*choose start*/
+.ch_title h1 {
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+.ch_item {
+    text-align: center;
+}
+.ch_header {
+    justify-content: center;
+}
+/*people start*/
+.people{
+    padding-bottom: 50px;
+    background-image: none;
+    background-color: var(--bgg);
+}
+.people_title{
+    margin-bottom: 40px;
+}
+.people_text {
+    padding: 15px 0 15px 15px;
+}
+.people_text h2 {
+    font-size: 17px;
+}
+.p_item {
+    padding: 35px;
+}
+.p_overlay {
+    top: 40px;
+    left: 35px;
+}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.a_img{
+    padding-top: 34px;
+}
+.a_text {
+    margin-left: 39px;
+}
+.a_text h1 {
+    padding-bottom: 20px;
+  }
+.a_text p {
+    line-height: 25px;
+}
+.p-2 {
+    padding: 10px 0 40px !important;
+}
+.a_learn {
+    width: 165px;
+    height: 40px;
+    font-size: 15px;
+}
+/*recent start*/
+.r_icon {
+    padding: 86px;
+}
+/*people start*/
+.people_text {
+    padding: 15px 0 15px 15px;
+}
+.people_text h2 {
+    font-size: 17px;
+}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+.slide p {
+    margin: 45px 265px 50px 0;
+}
+.w_icon{
+    right: 36%;
+}
+}
+
+/*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) and (max-width: 1599.98px) {
+.slide p {
+    margin: 45px 408px 50px 0;
+}
+.w_icon{
+    right: 38%;
+}
+.a_text h1 {
+    padding-bottom: 50px;
+}
+.a_text p {
+    line-height: 30px;
+}
+.p-2 {
+    padding: 25px 0 80px !important;
+}
+}
+
+/*xxxl devices (xtra large desktops, 1600px and up)*/
+@media (min-width: 1600px) {
+.slide p {
+    margin: 45px 408px 50px 0;
+}
+.w_icon{
+    right: 38%;
+}
+.a_text h1 {
+    padding-bottom: 50px;
+}
+.a_text p {
+    line-height: 30px;
+}
+.p-2 {
+    padding: 25px 0 80px !important;
+}
+}
